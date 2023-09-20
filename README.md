@@ -1,4 +1,4 @@
-# NASA_image_generator
+# NASA_image_generator API
 Downloads random space images from NASA website daily with description
 
 Before starting this you have to go to NASA.api.gov and create an account so you 
